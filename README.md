@@ -12,6 +12,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-costa-130778193/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521983068593)
 
+![Ismael Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismael-Costta&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-Costta&langs_count=8)](https://github.com/Ismael-Costta/github-readme-stats)
 
 ##Atualmente estudando as tecnologias!
